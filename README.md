@@ -1,5 +1,5 @@
 
-## Protein Function Prediction with Geometric Deep Learning
+# Protein Function Prediction with Geometric Deep Learning
 
 
 ![Jonas_Grabbe_MINIMALITSTIC_This_repository_WILL_contains_the_im_805beb60-a212-487f-a9bf-ac4c073b1496](https://github.com/JonasGrabbe/GeoPFP/assets/77153915/7bb5f75b-058e-468f-8d5d-3f9f8db9cf89)
