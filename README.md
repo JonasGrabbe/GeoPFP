@@ -17,7 +17,7 @@ GeoDL has been successfully applied to various areas of biology, including prote
 ### Current State of Protein Function Prediction
 Despite the significant strides made in the field of protein function prediction, there is still room for improvement. Current methods such as BLAST, SVM, PNN, KNN, ProtCNN, and BiLSTM have shown varying degrees of accuracy [1, 2, 3]. However, these methods have yet to be thoroughly evaluated and optimized, leading to limitations in their usage.
 
-### TheApproach
+### Approach
 The approach harnesses the power of geometric deep learning to predict protein functions. By leveraging the 3D structure of proteins, we aim to improve the accuracy of protein function prediction. GeoDL models such as ScanNet and PersGNN have shown promise in predicting protein binding sites and protein-protein interactions based on protein 3D structures.
 
 The work aims to build upon these foundations, incorporating advanced techniques such as graph representation learning and topological data analysis to capture a complex set of both local and global structural features. Our end goal is to develop an end-to-end trainable deep learning model that can accurately predict protein functions using only the structural information of a protein.
